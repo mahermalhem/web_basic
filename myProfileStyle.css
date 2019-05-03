@@ -1,0 +1,11 @@
+#BODY{
+	padding: 2%;
+	background-image: url(background1.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+tr{border-style: dashed;
+border-width: thin;
+border-color: blue; }

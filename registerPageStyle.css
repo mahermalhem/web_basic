@@ -1,0 +1,29 @@
+#BODY{
+	padding: 2%;
+	background-image: url(background1.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+#regForm{
+	border-radius: 5%;
+	border-style: inset;
+	border-color:lightblue;
+	overflow: auto;
+	border-width: 5px;
+	position: absolute;
+    top: 20%;
+    right: 30%;
+}
+#h1reg{
+	position: relative;
+	top: 10%;
+	left: 30%
+}
+label {
+	padding: 5%;
+}
+textarea{
+	padding-right:  5%;
+}

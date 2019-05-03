@@ -1,0 +1,39 @@
+#BODY{
+	padding: 2%;
+	background-image: url(background1.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+#header{
+	position: fixed;
+	 left: 33%; 
+    top: 15%; 
+    z-index: 1;
+}
+.figcaption{
+	font-style: italic;color: blue
+}
+#form{
+	position: fixed;
+	 left: 45%; 
+    top: 60%; 
+    z-index: 1;
+	font-style: bolder;
+	font-size: 22pt;
+}
+#reset,#submit{
+	width: 130px;
+	height: 40px;
+	color: black;
+	background-color: skyblue;
+}
+#reg{
+	border-style: outset; font-weight: bolder; font-size: 26pt;
+	text-decoration-line: underline;
+	text-decoration-color: skyblue;
+	position: fixed;
+	top: 85%;
+	left: 45%
+}

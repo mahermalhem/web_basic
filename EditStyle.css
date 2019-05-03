@@ -1,0 +1,45 @@
+#BODY{
+	padding: 2%;
+	background-image: url(background1.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+#regForm{
+	border-radius: 5%;
+	border-style: inset;
+	border-color:lightblue;
+	border-width: 5px;
+	overflow: auto;
+	position: absolute;
+    top: 20%;
+    right: 30%;
+}
+#h1reg{
+	position: relative;
+	top: 10%;
+	left: 30%
+}
+label {
+	padding: 5%;
+}
+textarea{
+	padding-right:  5%;
+}
+
+
+/* fot the password thing
+<label>Old Passowrd 
+				<input type="password" size="" width="100">
+			</label>
+			<br>
+			<br>
+			<label>New Passowrd
+				<input type="password" size="" width="100">			
+			</label>
+			<br>
+			<br>
+			<label>Confirm Passowrd 
+				<input type="password" size="" width="100">			
+			</label>			*/

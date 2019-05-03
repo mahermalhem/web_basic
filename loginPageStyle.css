@@ -1,0 +1,13 @@
+#BODY{
+	padding: 2%;
+	background-image: url(background1.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+
+#io2{display: none;
+}
+#io:hover #io2{display:inline;}
+
